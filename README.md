@@ -1,7 +1,7 @@
 # OpenCV-Learnning
 OpenCV Learnning
 
-### Image-Calibration: 图像梯形畸变校正
+Image-Calibration: 图像梯形畸变校正
 
 --------------
 + 梯形畸变校正利用的是图像处理中的透视变换（Perspective Transformation）（[参考链接](http://blog.csdn.net/xiaowei_cqu/article/details/26471527)）；
