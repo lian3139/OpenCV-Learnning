@@ -2,6 +2,7 @@
 OpenCV Learnning
 
 Image-Calibration: 图像梯形畸变校正
+
 1. 梯形畸变校正利用的是图像处理中的透视变换（Perspective Transformation）；
 2. 透视变换的本质为代表原始图像的矩阵到代表目标图像的矩阵的变换（SrcMat*TransformMat=DesMat）；
 3. 求目标图像的关键即为求出变换矩阵（TransformMat),OpenCV提供了方法：
