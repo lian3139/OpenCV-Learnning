@@ -9,3 +9,5 @@ Image-Calibration: 图像梯形畸变校正
 
 1. 在原始图像中找出四个点（A1, B1, C1, D1)构建矩阵Mat1,在目标图像中找出与原始图像四个点对应的四个点（A2, B2, C2, D2)构建矩阵Mat2；
 
+2. 通过Imgproc.getPerspectiveTransform(Mat1, Mat2)求出变换矩阵TransformMat
+
