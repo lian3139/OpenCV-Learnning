@@ -18,5 +18,7 @@ Image-Calibration: 图像梯形畸变校正
 安装image-celibration.apk, 将4.png拷贝至sd根目录下。
 
 + 校正效果：
-![](https://github.com/lian3139/OpenCV-Learnning/blob/master/desMat.png)
+
+校正前：![](https://github.com/lian3139/OpenCV-Learnning/blob/master/srcMat.png)
+校正后：![](https://github.com/lian3139/OpenCV-Learnning/blob/master/desMat.png)
 
