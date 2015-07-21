@@ -14,3 +14,9 @@ Image-Calibration: 图像梯形畸变校正
 
 + 利用求出的变换矩阵TransformMat及Imgproc.warpPerspective(srcMat, desMat, transMat, new Size(width, height))即可求出目标图像对应矩阵desMat
 
++ demo使用方法：
+安装image-celibration.apk, 将4.png拷贝至sd根目录下。
+
++ 校正效果：
+![](https://github.com/lian3139/OpenCV-Learnning/blob/master/desMat.png)
+
