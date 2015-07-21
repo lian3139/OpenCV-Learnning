@@ -22,5 +22,5 @@ Image-Calibration: 图像梯形畸变校正
 校正前：![](https://github.com/lian3139/OpenCV-Learnning/blob/master/srcMat.png)
 校正后：![](https://github.com/lian3139/OpenCV-Learnning/blob/master/desMat.png)
 
-+ Image-celibration、sdk均为Intellij idea的Android Module，需同时导入至同一project中。
++ 源码使用方法：Image-celibration、sdk均为Intellij idea的Android Module，需同时导入至同一project中。
 
